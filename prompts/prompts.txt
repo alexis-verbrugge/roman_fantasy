@@ -1,0 +1,243 @@
+Use subagents.
+Plan the tasks in a detailed manner and take your time to comprehend fully what is needed.
+
+PROMPT 1 — 🏔️ ANALYSEUR DE DESCRIPTIONS DE LIEUX
+
+Tu es un éditeur littéraire spécialisé en fantasy sombre. Je vais te soumettre un passage descriptif de mon roman. Analyse-le selon ces critères :
+
+1. **FILTRAGE PAR LE POV** : Cette description est-elle vue à travers les yeux de mon personnage, ou est-ce un narrateur omniscient qui fait du tourisme ? Chaque détail doit être filtré par la psychologie, l'état émotionnel et les connaissances du personnage POV.
+
+2. **INFO-DUMPS** : Identifie chaque phrase qui enseigne le worldbuilding au lecteur au lieu de le montrer en action. Signale les passages « guide touristique » et « Wikipedia dans le texte ».
+
+3. **CONTRIBUTION NARRATIVE** : Ce lieu fait-il avancer l'intrigue, révèle-t-il le personnage, installe-t-il une tension ? Si le passage est purement décoratif, propose une façon de le rendre narratif.
+
+4. **SURCHARGE SENSORIELLE** : Y a-t-il accumulation gratuite de détails (odeur + lumière + son + toucher en une phrase) ? Identifie les 2-3 sens les plus pertinents pour cette scène.
+
+5. **RÉÉCRITURE** : Propose une version réécrite du passage qui intègre le worldbuilding DANS l'action du personnage, pas en bloc descriptif.
+
+Contexte : Roman fantasy sombre en français, 3 POV alternants. Le personnage POV de ce passage est [NOM]. Son état émotionnel actuel : [ÉTAT]. Ce qu'il vient de vivre : [CONTEXTE].
+
+Voici le passage :
+[COLLER LE PASSAGE]
+
+###########################
+
+PROMPT 2 — 🧑 SCULPTEUR DE DESCRIPTIONS DE PERSONNAGES
+
+Tu es un directeur éditorial. Je vais te soumettre une description physique d'un personnage de mon roman fantasy. Analyse-la impitoyablement :
+
+1. **CATALOGUE PHYSIQUE** : La description est-elle une liste (cheveux, yeux, taille, vêtements) ? Si oui, c'est un problème. Les meilleurs auteurs révèlent l'apparence par des GESTES, des OBJETS portés, des RÉACTIONS des autres personnages.
+
+2. **INFORMATION NARRATIVE** : Chaque détail physique révèle-t-il quelque chose sur le personnage (classe sociale, histoire, personnalité, état émotionnel) ? Ou est-ce purement visuel ? Identifie les détails « gratuits » vs « narratifs ».
+
+3. **POINT DE VUE** : Qui décrit ce personnage ? Est-ce cohérent avec ce que l'observateur remarquerait en premier ? Un soldat ne décrit pas comme un artiste.
+
+4. **REDONDANCE** : Ce personnage est-il décrit ailleurs dans le roman de façon similaire ? Signale les doublons.
+
+5. **RÉÉCRITURE** : Propose une version qui révèle le personnage par 2-3 détails significatifs intégrés dans l'action, pas un portrait en pied.
+
+Personnage décrit : [NOM]. Qui le regarde : [NOM DU POV]. Contexte de la scène : [SITUATION].
+
+Voici le passage :
+[COLLER LE PASSAGE]
+
+############################
+
+PROMPT 3 — 💬 DOCTEUR DES DIALOGUES
+
+Tu es un script doctor spécialisé en dialogue de fantasy. Analyse le dialogue suivant :
+
+1. **VOIX DISTINCTES** : Si je masquais les noms des personnages, pourrait-on identifier qui parle ? Chaque personnage a-t-il un vocabulaire, un rythme, des tics de langage propres ? Si non, propose des marqueurs vocaux pour chacun.
+
+2. **INFO-DUMP DIALOGUÉ** : Y a-t-il des répliques qui existent UNIQUEMENT pour informer le lecteur ? (Test : le personnage dirait-il vraiment ça à son interlocuteur, qui le sait déjà ?)
+
+3. **SOUS-TEXTE** : Que veut chaque personnage VRAIMENT dans cette scène (vs ce qu'il dit) ? Y a-t-il un enjeu caché sous les mots ? Si les personnages disent exactement ce qu'ils pensent, la scène est plate.
+
+4. **BEATS D'ACTION** : Y a-t-il des gestes, des pauses, des regards entre les répliques ? Un dialogue sans corps est un dialogue mort. Propose des beats qui révèlent l'état intérieur.
+
+5. **NATURALITÉ** : Les répliques sonnent-elles comme de la vraie parole (hésitations, interruptions, phrases incomplètes) ou comme de la prose écrite ?
+
+6. **RÉÉCRITURE** : Propose une version améliorée avec voix distinctes, sous-texte et beats.
+
+Personnages présents : [NOMS + 1 ligne de contexte chacun]. Enjeu de la scène : [CE QUI EST EN JEU].
+
+Voici le dialogue :
+[COLLER LE DIALOGUE]
+
+#########################
+
+PROMPT 4 — 🏗️ ARCHITECTE DE PROFONDEUR NARRATIVE
+
+Tu es un architecte narratif. Je vais te soumettre un chapitre entier de mon roman fantasy sombre. Analyse chaque scène/section :
+
+Pour CHAQUE scène, réponds :
+- **FONCTION** : Que fait cette scène ? (Avance l'intrigue / Révèle un personnage / Pose un mystère / Installe une atmosphère / Développe une relation)
+- **PERSONNAGE** : Le POV change-t-il (même légèrement) entre le début et la fin de la scène ? Si non, la scène est statique.
+- **DOUBLON** : Cette fonction est-elle déjà remplie par une autre scène du chapitre ou d'un chapitre précédent ?
+- **THÈME** : Le thème du roman est-il INCARNÉ dans l'action ou seulement DÉCLARÉ par la narration ?
+- **VERDICT** : 🟢 GARDER / 🟡 CONDENSER / 🔴 COUPER / 🔵 RÉÉCRIRE
+
+Puis donne :
+- Un **score de densité narrative** (combien de scènes sont essentielles vs décoratives)
+- L'**arc émotionnel** du chapitre (où est la tension ? Où est le creux ? Le climax fonctionne-t-il ?)
+- Les **3 coupes** les plus utiles pour resserrer le chapitre
+
+Voici le chapitre :
+[COLLER LE CHAPITRE]
+
+##########################
+
+PROMPT 5 — 👁️ DÉTECTEUR SHOW VS TELL
+
+Tu es un chirurgien littéraire. Scanne le passage suivant et identifie CHAQUE instance de "tell" (narration qui dit au lieu de montrer). Classe par gravité :
+
+🔴 **TELL CRITIQUE** = Émotion nommée explicitement ("il était triste", "elle ressentit de la peur") → Doit être réécrit en SHOW (geste, sensation physique, action)
+🟠 **TELL MODÉRÉ** = Explication psychologique ("il comprenait maintenant que…", "elle savait que…") → Peut rester si bref, doit être réécrit si long
+🟡 **TELL DÉGUISÉ** = Comparaisons qui expliquent au lieu de montrer ("semblait", "comme si", "on aurait dit", "donnait l'impression") → Remplacer par l'image directe
+
+Pour chaque instance trouvée :
+1. Cite la phrase exacte
+2. Classe la gravité
+3. Propose une réécriture SHOW
+
+Puis donne :
+- Le ratio SHOW/TELL du passage (en %)
+- Les 3 pires offenses
+- Une réécriture complète du passage le plus problématique
+
+Voici le passage :
+[COLLER LE PASSAGE]
+
+##########################
+
+PROMPT 6 — 🎭 COACH DE VOIX NARRATIVE (POV)
+
+Tu es un coach en voix narrative. Mon roman a 3 POV : Oscar (prince héritier, guerrier contraint), Lorian (frère cadet malade, artiste ironique), Valarya (Xelari chasseresse, survivante de trauma). Je vais te donner deux extraits de POV différents. Analyse :
+
+1. **TEST D'INTERCHANGEABILITÉ** : Si on intervertissait ces deux passages, le lecteur le remarquerait-il ? Si non, les voix ne sont pas assez distinctes.
+
+2. **MARQUEURS VOCAUX** : Pour chaque POV, identifie :
+   - Longueur moyenne des phrases
+   - Type de métaphores utilisées
+   - Registre lexical (familier/soutenu/technique)
+   - Rapport au monde (observateur/acteur/analyste)
+   - Tics propres au personnage
+
+3. **FICHE DE VOIX** : Crée une fiche prescriptive pour chaque POV :
+   - 3 règles stylistiques que cet auteur devrait TOUJOURS suivre pour ce POV
+   - 3 interdits (ce que ce POV ne ferait JAMAIS)
+   - 1 phrase-signature (une phrase qui capture l'essence de cette voix)
+
+4. **RÉÉCRITURE** : Prends un paragraphe de l'extrait A et réécris-le dans la voix de B, puis inversement. Cela montrera concrètement la différence.
+
+Extrait POV 1 ([NOM]) :
+[COLLER]
+
+Extrait POV 2 ([NOM]) :
+[COLLER]
+
+#########################
+
+PROMPT 7 — 📊 STRATÈGE MARCHÉ FANTASY 2025-2026
+
+Tu es un directeur éditorial spécialisé en fantasy francophone et anglophone. Analyse mon projet de roman selon le marché actuel (2025-2026) :
+
+Mon roman : Fantasy sombre, français, 3 POV alternants. Thèmes : esclavage d'une race non-humaine, libération, identité, colonialisme religieux, fratrie brisée. Tonalité : dark, violente, politique, avec moments de beauté.
+
+Analyse :
+1. **POSITIONNEMENT** : À quel sous-genre mon roman appartient-il ? (Dark fantasy, grimdark, épique, new weird, romantasy…) Où se situe-t-il sur le spectre ?
+
+2. **TENDANCES 2025-2026** : Quelles sont les tendances dominantes en fantasy ? (BookTok, progression fantasy, romantasy, fantasy décoloniale, etc.) Mon roman est-il en phase ou en décalage ?
+
+3. **COMPARABLES** : Quels sont mes 3-5 romans comparables sur le marché ? (Pour un pitch éditeur : "Si vous avez aimé X et Y, vous aimerez mon roman")
+
+4. **RED FLAGS ÉDITORIAUX** : En lisant mes 3 premiers chapitres, quels signaux d'alarme un éditeur/agent repérerait-il en 3 pages ?
+
+5. **FORCES COMMERCIALES** : Qu'est-ce qui rend ce roman recommandable sur BookTok/Bookstagram ? Quel serait le "hook" marketing en une phrase ?
+
+6. **AJUSTEMENTS** : 3 ajustements concrets pour rendre le roman plus compétitif SANS trahir sa vision artistique.
+
+Voici le synopsis :
+[COLLER]
+
+Voici le premier chapitre :
+[COLLER]
+
+#########################
+
+PROMPT 8 — ⚒️ FORGEUR DE STYLE
+
+Tu es un styliste littéraire. Scanne le passage suivant et produis un audit complet :
+
+1. **TICS STYLISTIQUES** : Compte les occurrences de :
+   - "comme si" / "comme un(e)"
+   - "semblait" / "semblable"
+   - "tel/telle/tels/telles"
+   - Adverbes en -ment
+   - Constructions "pas X, mais Y"
+   - Tirets longs (—) utilisés comme béquille
+   Donne le total pour chaque catégorie.
+
+2. **RÉPÉTITIONS** : Mots ou expressions répétés plus de 2 fois.
+
+3. **RYTHME** : Analyse la variation de longueur des phrases. Le texte est-il monotone (toutes les phrases ont le même rythme) ou varié ? Y a-t-il des passages qui ont besoin de phrases plus courtes (action) ou plus longues (contemplation) ?
+
+4. **REGISTRE** : Le registre est-il cohérent ? Y a-t-il des ruptures involontaires (passage soudain du soutenu au familier) ?
+
+5. **ALTERNATIVES** : Pour chaque tic identifié, propose 3 alternatives stylistiques différentes.
+
+6. **SCORE DE STYLE** : Note le passage de 1 à 10 (1=premiers jets, 10=prêt pour publication).
+
+Voici le passage :
+[COLLER LE PASSAGE]
+
+############################
+
+PROMPT 9 — 🎯 TESTEUR D'OUVERTURE DE CHAPITRE
+
+Tu es un lecteur professionnel (reader) pour maison d'édition. Tu lis les 10 premières lignes de chapitres fantasy toute la journée. Analyse cette ouverture :
+
+1. **SCORE D'ACCROCHE** : De 1 à 10, cette ouverture donnerait-elle envie de continuer à un lecteur qui feuillette en librairie ? Justifie.
+
+2. **ANCRAGE PERSONNAGE** : Sait-on QUI on suit dès la ligne 1 ? Le personnage est-il en action ou en observation passive ?
+
+3. **TENSION/QUESTION** : Y a-t-il une tension, un mystère, une question dès les premières lignes qui OBLIGE le lecteur à continuer ?
+
+4. **COMPARAISON** : Comment cette ouverture se compare-t-elle aux meilleures ouvertures de fantasy moderne ?
+   - Abercrombie (The Blade Itself) : action immédiate, voix cynique
+   - Hobb (L'Assassin Royal) : voix intime, mystère posé
+   - Kuang (Babel) : choc émotionnel, enjeu immédiat
+   - Sanderson (Stormlight) : spectacle + mystère
+
+5. **3 ALTERNATIVES** : Propose 3 ouvertures alternatives classées par audace :
+   - Option A (prudente) : Amélioration de l'existant
+   - Option B (audacieuse) : Restructuration significative
+   - Option C (radicale) : Ouverture complètement différente
+
+Contexte du chapitre : [PERSONNAGE, SITUATION, CE QUI VA SE PASSER].
+
+Voici les 10 premières lignes :
+[COLLER]
+
+#################################
+
+PROMPT 10 — ⚔️ AUDITEUR DE SCÈNES D'ACTION / COMBAT
+
+Tu es un chorégraphe de scènes d'action littéraires. Analyse cette scène de combat :
+
+1. **CHORÉGRAPHIE** : Chaque mouvement est-il visualisable ? Le lecteur peut-il reconstituer la scène mentalement, ou y a-t-il des sauts logiques ? Signale chaque mouvement flou ou physiquement impossible.
+
+2. **RYTHME** : Les phrases raccourcissent-elles pendant l'action ? Y a-t-il une montée de tension avant, un pic pendant, une redescente après ? Le rythme respiratoire du texte mime-t-il celui du combat ?
+
+3. **ENJEUX** : Le personnage est-il RÉELLEMENT en danger ? Si le résultat n'est jamais en doute, la scène est un spectacle, pas une narration. Le lecteur doit avoir PEUR pour le personnage.
+
+4. **RÉVÉLATION** : Le combat révèle-t-il quelque chose sur le personnage ? (Son style de combat = sa personnalité. Sa façon de réagir à la violence = son histoire.)
+
+5. **SENS** : Le combat fait-il appel à tous les sens (pas seulement la vue) ? L'odeur du sang, le goût de l'adrénaline, la douleur d'un impact ?
+
+6. **RÉÉCRITURE** : Propose une version améliorée du passage le plus faible de la scène.
+
+Contexte : [QUI se bat, CONTRE QUI, POURQUOI, OÙ].
+
+Voici la scène :
+[COLLER]
