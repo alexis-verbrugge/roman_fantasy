@@ -1,0 +1,183 @@
+voix auteur 
+
+> Tu es un critique littéraire spécialisé en fantasy contemporaine. Je vais te soumettre 3 extraits de mon roman (de chapitres différents, environ 500 mots chacun). Analyse ma voix d'auteur avec une précision chirurgicale :
+> 
+
+> 
+> 
+
+> **Forces naturelles**
+> 
+
+> - Quels sont mes réflexes stylistiques les plus efficaces ? (métaphores, rythme des phrases, choix lexicaux)
+> 
+
+> - Quels passages "sonnent" le mieux et pourquoi ?
+> 
+
+> - Quel est mon registre naturel (lyrique, sec, ironique, sensoriel, introspectif) ?
+> 
+
+> 
+> 
+
+> **Tics à surveiller**
+> 
+
+> - Quels mots ou tournures je suremplois ?
+> 
+
+> - Quels verbes faibles reviennent trop souvent ? (être, avoir, faire, sembler)
+> 
+
+> - Où est-ce que je "raconte" au lieu de "montrer" par réflexe ?
+> 
+
+> - Est-ce que mes phrases ont tendance à avoir la même longueur / le même rythme ?
+> 
+
+> 
+> 
+
+> **ADN stylistique**
+> 
+
+> - Si tu devais décrire ma voix en 3 adjectifs, lesquels ?
+> 
+
+> - À quels auteurs publiés ma voix ressemble-t-elle (même involontairement) ?
+> 
+
+> - Qu'est-ce qui me rend UNIQUE par rapport à ces auteurs ?
+> 
+
+> 
+> 
+
+> **Prescription**
+> 
+
+> - 3 exercices concrets pour amplifier mes forces
+> 
+
+> - 3 habitudes à casser pour éliminer mes faiblesses
+> 
+
+> - 1 "règle d'or personnelle" que je devrais m'imposer à chaque page
+>
+
+
+architecture de tension
+
+## 🎯 Objectif
+
+Cartographier les montées et descentes de tension de ton roman entier pour repérer les zones plates.
+
+---
+
+## 📋 Le Prompt
+
+> Agis comme un architecte narratif spécialisé en dark fantasy. Je vais te donner le résumé chapitre par chapitre de mon roman. Pour chaque chapitre, attribue :
+> 
+
+> 
+> 
+
+> 1. Un **score de tension** de 1 à 10 (1 = contemplation pure, 10 = point de non-retour)
+> 
+
+> 2. Le **type de tension** dominant : physique (combat, poursuite), psychologique (dilemme, manipulation), émotionnelle (perte, trahison), ou mystère (révélation, question sans réponse)
+> 
+
+> 3. Le **crochet de fin** : comment le chapitre donne envie de lire le suivant ? S'il n'y en a pas, propose-en un.
+> 
+
+> 4. Les **zones mortes** : passages où le lecteur risque de décrocher, et pourquoi.
+> 
+
+> 
+> 
+
+> Ensuite, dessine-moi la **courbe de tension globale** et identifie :
+> 
+
+> - Les plateaux dangereux (2+ chapitres consécutifs au même niveau)
+> 
+
+> - Les pics trop rapprochés (fatigue du lecteur)
+> 
+
+> - Les respirations manquantes (le lecteur a besoin de souffler avant le prochain coup)
+> 
+
+> 
+> 
+
+> Voici mes chapitres :
+> 
+
+> [COLLE ICI UN RÉSUMÉ DE CHAQUE CHAPITRE — 3 à 5 phrases par chapitre suffisent]
+> 
+
+---
+
+## 💡 Pourquoi ce prompt ?
+
+Le rythme est le problème invisible. Un chapitre peut être bien écrit et pourtant tuer le momentum du roman. Cette carte te montre où intervenir en priorité.
+
+
+
+palette du monde
+
+## 🎯 Objectif
+
+Créer un lexique sensoriel propre à ton univers dark fantasy, pour ne jamais être à court d'images concrètes.
+
+---
+
+## 📋 Le Prompt (à copier dans Claude)
+
+> Je construis un univers dark fantasy. Aide-moi à créer une **cartographie sensorielle** de mon monde.
+> 
+
+> 
+> 
+
+> Pour chaque lieu majeur de mon roman, génère :
+> 
+
+> - **3 images visuelles** spécifiques (pas "il faisait sombre" → plutôt la couleur exacte du ciel, la texture des murs, ce que la lumière fait aux ombres)
+> 
+
+> - **2 sons** caractéristiques (le bruit de fond permanent, le son qu'on n'entend que la nuit)
+> 
+
+> - **2 odeurs** (une agréable, une répugnante)
+> 
+
+> - **1 sensation tactile** récurrente (humidité, chaleur, grain de la pierre)
+> 
+
+> - **1 goût** qu'on associe à ce lieu (l'air qu'on respire, ce qu'on mange là-bas)
+> 
+
+> 
+> 
+
+> Mes lieux principaux sont :
+> 
+
+> [COLLE ICI LA LISTE DE TES LIEUX]
+> 
+
+> 
+> 
+
+> Pour chaque entrée sensorielle, propose une **phrase d'exemple** que je pourrais intégrer directement dans le texte. Le ton doit être sombre, viscéral, poétique sans être précieux.
+> 
+
+---
+
+## 💡 Pourquoi ce prompt ?
+
+Le piège du dark fantasy, c'est de s'enfermer dans le visuel ("il faisait sombre, les murs suintaient"). Les sens négligés — le goût, le toucher, le son — sont ceux qui ancrent le lecteur dans la scène. Ce lexique devient ta palette de peintre.
