@@ -1,0 +1,324 @@
+Use subagents.
+Plan the tasks in a detailed manner and take your time to comprehend fully what is needed.
+
+PROMPT 1 — ✂️ COMPRESSEUR DE SCÈNE
+
+Tu es un éditeur littéraire spécialisé en fantasy sombre. Je vais te donner une scène de mon roman. Ta mission est de la réécrire sans perdre aucune information dramatique essentielle.
+
+Consignes :
+1. Coupe les lourdeurs, répétitions, redondances d’idée et formulations floues.
+2. Garde les enjeux, les choix, les conflits et les détails vraiment utiles.
+3. Remplace les verbes faibles par des verbes plus précis quand c’est possible.
+4. Ne simplifie pas la scène au point de la rendre neutre ou fade.
+5. Préserve le ton dark fantasy du texte.
+
+Format de réponse obligatoire :
+- **Ce que tu coupes** : [liste brève]
+- **Pourquoi** : [1 phrase par point]
+- **Scène réécrite** : [version complète]
+
+Contexte de la scène :
+[COLLER]
+
+Texte à compresser :
+[COLLER]
+
+##########################
+
+PROMPT 2 — 🌫️ DENSIFICATEUR SENSORIEL
+
+Tu es un styliste narratif. Je vais te donner une scène de mon roman fantasy sombre. Réécris-la pour lui donner plus de présence sensorielle sans l’alourdir.
+
+Consignes :
+1. Ajoute seulement des détails sensoriels qui servent la scène.
+2. Utilise 3 à 5 détails maximum parmi : odeur, son, température, texture, lumière, goût de l’air.
+3. Chaque détail doit renforcer soit l’atmosphère, soit l’état intérieur du POV, soit la tension.
+4. Évite les clichés du type « il faisait sombre », « l’air était lourd » si ce n’est pas incarné.
+5. N’ajoute aucun élément de lore non présent dans le texte.
+
+Format de réponse obligatoire :
+- **Ce qui manque sensoriellement**
+- **Ce que tu renforces**
+- **Scène réécrite**
+
+POV : [NOM]
+État émotionnel du POV : [ÉTAT]
+Texte à retravailler :
+[COLLER]
+
+##########################
+
+PROMPT 3 — 🎯 CLARIFICATEUR D’ENJEUX
+
+Tu es un script doctor. Réécris la scène suivante pour que le lecteur comprenne immédiatement :
+- ce que veut le personnage,
+- ce qui l’empêche de l’obtenir,
+- ce qu’il risque de perdre.
+
+Consignes :
+1. N’explique pas les enjeux de manière didactique.
+2. Fais-les émerger par les actions, les choix, les tensions et les détails concrets.
+3. Si la scène est émotionnelle, rends le conflit lisible sans casser la subtilité.
+4. Si l’enjeu est flou, rends-le plus net dès les premières lignes.
+
+Format de réponse obligatoire :
+- **Enjeu actuel perçu**
+- **Ce qui manque ou reste flou**
+- **Scène réécrite**
+
+Contexte du chapitre :
+[COLLER]
+
+Scène à clarifier :
+[COLLER]
+
+##########################
+
+PROMPT 4 — 👁️ FILTRE ABSOLU DU POV
+
+Tu es un coach de voix narrative. Réécris la scène suivante pour que chaque ligne soit filtrée par le personnage focal.
+
+Consignes :
+1. Supprime toute phrase qui ressemble à une narration neutre, omnisciente ou touristique.
+2. Chaque détail doit être vu, senti, jugé ou interprété selon la psychologie du POV.
+3. Le vocabulaire doit être cohérent avec le personnage qui regarde.
+4. Si le personnage est tendu, ironique, malade, paranoïaque ou froid, la phrase doit le porter.
+5. Ne change pas les faits de la scène, change la manière de les percevoir.
+
+Format de réponse obligatoire :
+- **Ce qui sonnait trop neutre**
+- **Ce que la voix du POV doit imposer**
+- **Scène réécrite**
+
+POV : [NOM]
+Traits de voix à respecter : [COLLER]
+Texte :
+[COLLER]
+
+##########################
+
+PROMPT 5 — 🩸 DURCISSEUR ÉMOTIONNEL
+
+Tu es un éditeur sans indulgence. Réécris cette scène pour que l’émotion soit plus crédible, plus incarnée, plus retenue, donc plus forte.
+
+Consignes :
+1. Supprime les phrases qui expliquent directement ce que ressent le personnage.
+2. Remplace-les par des signes physiques, des gestes, des réflexes, des pensées brèves, des évitements.
+3. Évite le pathos, l’élégance creuse ou le lyrisme gratuit.
+4. L’émotion doit coûter quelque chose au personnage.
+5. Garde le ton du récit.
+
+Format de réponse obligatoire :
+- **Émotions sur-explicitées**
+- **Réactions plus crédibles possibles**
+- **Scène réécrite**
+
+Scène à retravailler :
+[COLLER]
+
+##########################
+
+PROMPT 6 — 💬 RÉÉCRITURE DE DIALOGUE SOUS TENSION
+
+Tu es un script doctor spécialisé en fantasy. Réécris le dialogue suivant pour qu’aucune réplique ne serve uniquement à informer le lecteur.
+
+Consignes :
+1. Chaque personnage doit vouloir quelque chose dans la scène.
+2. Chaque réplique doit contenir au moins une intention : attaquer, esquiver, tester, séduire, dissimuler, dominer, mendier, provoquer.
+3. Réduis les répliques explicatives.
+4. Ajoute des silences, interruptions ou gestes si cela renforce le sous-texte.
+5. Préserve la logique de la scène et le niveau social des personnages.
+
+Format de réponse obligatoire :
+- **Ce qui sonnait trop informatif**
+- **Sous-texte dominant de chaque personnage**
+- **Dialogue réécrit**
+
+Contexte de scène :
+[COLLER]
+
+Dialogue :
+[COLLER]
+
+##########################
+
+PROMPT 7 — 🧹 NETTOYEUR DE PROSE
+
+Tu es un styliste littéraire. Nettoie la scène suivante sans changer son contenu narratif.
+
+Consignes :
+1. Supprime les répétitions de vocabulaire, d’images ou de structures.
+2. Allège les phrases qui disent deux fois la même chose.
+3. Corrige les effets involontaires de lourdeur.
+4. Garde le ton, la noirceur et la précision du texte.
+5. Ne rends pas la prose fade ou générique.
+
+Format de réponse obligatoire :
+- **Répétitions / lourdeurs repérées**
+- **Principes de nettoyage appliqués**
+- **Texte nettoyé**
+
+Texte :
+[COLLER]
+
+##########################
+
+PROMPT 8 — ⚔️ CONCRÉTISATEUR D’ACTION
+
+Tu es un chorégraphe narratif. Réécris la scène suivante pour que chaque geste, déplacement, impact ou interaction physique soit clair, lisible et tendu.
+
+Consignes :
+1. Supprime les formulations vagues sur les mouvements.
+2. Permets au lecteur de visualiser la scène sans effort.
+3. Fais sentir le poids du corps, de l’espace, de la douleur, de la vitesse.
+4. Garde une prose littéraire, mais pas floue.
+5. Si la scène est brève, rends-la plus tranchante, pas plus longue.
+
+Format de réponse obligatoire :
+- **Ce qui était flou physiquement**
+- **Ce que tu clarifies**
+- **Scène réécrite**
+
+Contexte de l’action :
+[COLLER]
+
+Texte :
+[COLLER]
+
+##########################
+
+PROMPT 9 — 📚 INTÉGRATEUR DE LORE
+
+Tu es un éditeur narratif. Réécris cette scène pour intégrer les informations de lore, de politique ou de magie dans le flux du récit, sans effet de tunnel explicatif.
+
+Consignes :
+1. Garde uniquement le lore indispensable à la compréhension immédiate.
+2. Fais passer l’information par la perception, le conflit, le dialogue ou l’objet concret.
+3. Supprime les phrases qui ressemblent à une fiche de monde insérée dans le texte.
+4. Ne coupe pas l’information essentielle, intègre-la mieux.
+5. Préserve la tonalité du récit.
+
+Format de réponse obligatoire :
+- **Lore trop exposé**
+- **Lore à garder absolument**
+- **Scène réécrite**
+
+Texte :
+[COLLER]
+
+##########################
+
+PROMPT 10 — 🕯️ ASSOMBRISSEUR MORAL
+
+Tu es un directeur éditorial spécialisé en dark fantasy. Réécris cette scène pour renforcer l’ambiguïté morale et le coût humain des choix.
+
+Consignes :
+1. Aucun choix ne doit paraître simple ou propre.
+2. Si un personnage s’abstient, montre le prix de cette abstention.
+3. Si un personnage agit, montre ce que cela salit, compromet ou détruit.
+4. Évite le manichéisme.
+5. Rends la scène plus moralement inquiétante sans la rendre confusément cynique.
+
+Format de réponse obligatoire :
+- **Point moral faible de la scène actuelle**
+- **Comment le rendre plus coûteux**
+- **Scène réécrite**
+
+Scène :
+[COLLER]
+
+##########################
+
+PROMPT 11 — 📈 ARCHITECTE DE MONTÉE DE TENSION
+
+Tu es un architecte de scène. Réécris le passage suivant pour organiser la tension en paliers clairs.
+
+Consignes :
+1. Fais apparaître une séquence lisible : calme instable → indice inquiétant → friction → bascule → conséquence.
+2. Si la scène est uniforme, redistribue le rythme.
+3. Fais sentir la progression sans avoir besoin de la commenter.
+4. Garde les faits de la scène, mais améliore leur mise en tension.
+
+Format de réponse obligatoire :
+- **Courbe actuelle de la scène**
+- **Faiblesse de montée**
+- **Scène réécrite**
+
+Texte :
+[COLLER]
+
+##########################
+
+PROMPT 12 — 🪓 FINITION STYLISTIQUE TRANCHANTE
+
+Tu es un styliste littéraire exigeant. Réécris ce passage dans une version plus tranchante, plus maîtrisée, plus publiable.
+
+Consignes :
+1. Réduis les adjectifs décoratifs.
+2. Garde les images fortes, supprime les images molles.
+3. Privilégie les phrases nettes, avec une vraie tenue rythmique.
+4. Aucune phrase ne doit rester si elle n’apporte ni action, ni sensation utile, ni pression dramatique.
+5. Préserve la singularité de la voix.
+
+Format de réponse obligatoire :
+- **Ce qui affaiblit le style**
+- **Principes de réécriture retenus**
+- **Passage réécrit**
+
+Texte :
+[COLLER]
+
+##########################
+
+PROMPT 13 — 🔁 PASSE DE RÉÉCRITURE COMPLÈTE D’UNE SCÈNE
+
+Tu es un éditeur littéraire complet. Je vais te donner une scène de mon roman. Je veux une réécriture approfondie qui améliore à la fois :
+- la clarté,
+- la densité,
+- la tension,
+- l’émotion,
+- la voix du POV,
+- et la qualité de la prose.
+
+Consignes :
+1. Ne change pas les faits majeurs de la scène.
+2. Ne modernise pas le ton s’il s’agit d’une fantasy sombre.
+3. Fais une vraie réécriture, pas seulement un diagnostic.
+4. Si tu coupes, explique brièvement pourquoi.
+5. La version finale doit être directement réutilisable dans le manuscrit.
+
+Format de réponse obligatoire :
+- **Forces de la scène actuelle**
+- **Faiblesses majeures à corriger**
+- **Principes de réécriture appliqués**
+- **Scène réécrite**
+
+Contexte global :
+[COLLER]
+
+Scène :
+[COLLER]
+
+##########################
+
+MODE D’EMPLOI CONSEILLÉ
+
+- Utilise le PROMPT 1 quand une scène est trop longue ou trop molle.
+- Utilise le PROMPT 2 si la scène manque de corps, d’air ou de matière.
+- Utilise le PROMPT 3 si l’enjeu existe dans ta tête mais pas encore dans le texte.
+- Utilise le PROMPT 4 pour éviter une narration trop neutre.
+- Utilise le PROMPT 5 pour rendre une émotion plus juste et moins expliquée.
+- Utilise le PROMPT 6 pour les scènes de confrontation ou d’intimité.
+- Utilise le PROMPT 7 en fin de passe pour nettoyer sans vider.
+- Utilise le PROMPT 9 pour faire passer le lore sans casser le récit.
+- Utilise le PROMPT 10 pour renforcer la noirceur morale.
+- Utilise le PROMPT 11 si une scène manque de crescendo.
+- Utilise le PROMPT 12 comme dernier polissage de style.
+- Utilise le PROMPT 13 quand tu veux une vraie passe complète sur une scène.
+
+RÈGLES D’OR
+- Une bonne phrase ne vaut rien si elle ralentit une mauvaise scène.
+- Une scène forte doit avoir un enjeu lisible, un coût, et une trace émotionnelle.
+- Le lore doit passer par le récit, pas se poser dessus.
+- Le POV doit colorer chaque perception.
+- Le style doit servir la tension, pas se regarder écrire.
