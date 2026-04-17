@@ -1,0 +1,69 @@
+J’ai croisé les deux audits : le vrai problème n’est pas la prose, c’est la mécanique visible du chapitre. Je clôture le plan puis je te rends un verdict net, sans adoucir.
+
+Completed: Cadrer l'audit demandé (1/3)
+
+Ce qui tient
+
+Oscar est crédible quand il est dans le réflexe et le malaise: évitement de l’enfant, dissociation, angoisse sociale, geste automatique vers le médaillon.
+
+La cérémonie comme mise en scène monarchique fonctionne: le roi utilise le deuil pour cadrer le récit public, et ça, politiquement, a du sens.
+
+L’atmosphère est forte: pluie, encens, foule, pierre, métal, malaise physique. Tu sais créer une densité sensorielle.
+
+Ce qui casse la crédibilité
+
+Le trajet d’Oscar est trop “parfaitement utile”: enfant, marchand prophétique, Xelari opprimé, puis palais. On voit la main de l’auteur organiser une suite de symboles, pas une ville vivante.
+
+Oscar se promène seul au marché juste avant une cérémonie royale majeure, alors qu’un conseiller a été assassiné et qu’un talisman a disparu. Politiquement et sécuritairement, ça sonne faux.
+
+Le marchand est trop manifestement un distributeur de destin. Il reconnaît Oscar, lit son intériorité, annonce son basculement. Ce n’est pas un personnage crédible, c’est un panneau prophétique.
+
+La scène du Xelari est trop démonstrative. Elle existe surtout pour exposer l’oppression et tester la froideur d’Oscar. En l’état, elle sert le thème plus qu’elle ne sert le réel.
+
+Draven parle comme une fonction d’exposition. Il n’échange pas, il délivre les informations nécessaires au chapitre.
+
+Le roi dit trop de choses d’un coup: deuil d’Aldren, idéologie des colliers, discrédit implicite de Lorian, officialisation d’Oscar, sortie de l’épée mythique. C’est un embouteillage narratif.
+
+La salle réagit trop proprement. Trop peu de trouble, trop peu de calcul politique visible, trop peu de friction face à des annonces qui devraient être explosives.
+
+L’Épée de l’Orage produit un effet spectaculaire immédiat, mais sans coût clair. Un artefact de cette ampleur ne peut pas juste “reconnaître” Oscar sans dette visible.
+
+Pourquoi ça casse
+
+Parce que la causalité est souvent remplacée par la commodité. Les scènes n’arrivent pas parce qu’elles découlent naturellement du moment: elles arrivent parce qu’il faut installer tes thèmes.
+
+Parce que trop de personnages parlent ou agissent pour clarifier le monde au lecteur. Le marchand prophétise, Draven informe, le roi théorise, le maître brutalise. Chacun remplit sa case.
+
+Parce que le monde ne résiste pas assez. Une monarchie tendue par un meurtre politique devrait suinter la sécurité, la rumeur, la paranoïa, les camps. Ici, elle sert surtout de décor au sacre.
+
+Parce que les Xelaris sont encore traités comme une image morale forte, pas comme une réalité sociale entièrement structurante. On voit le symbole, pas encore le système.
+
+Parce que le chapitre veut tout poser d’un coup: personnage, oppression, mystère, succession, frère absent, artefact, idéologie d’État. Résultat: il a de l’allure, mais la mécanique se voit.
+
+Ce que je dois justifier ou réécrire
+
+Justifier sérieusement pourquoi Oscar circule seul, ou réécrire l’ouverture pour respecter la logique d’un prince en contexte de crise.
+
+Refaire le trajet vers le palais: garde une ou deux scènes signifiantes, pas une procession de signes.
+
+Reprendre le marchand: lui donner une base sociale crédible, ou retirer la tonalité d’oracle trop pratique.
+
+Repenser la scène du Xelari pour qu’elle fasse sentir un ordre social complet: surveillance, habitude, peur, procédure, pas juste cruauté visible.
+
+Donner à Draven un objectif relationnel ou politique, au lieu d’en faire un tuyau à lore.
+
+Étaler ou hiérarchiser le discours du roi. Là, il expose trop frontalement le roman au lecteur.
+
+Donner un prix immédiat à l’épée: blessure, marque, rejet partiel, terreur religieuse, réaction politique, suspicion, dette.
+
+Clarifier la réaction de la cour: qui savait, qui approuve, qui se crispe, qui calcule.
+
+Niveau de crédibilité
+
+4/10
+
+Ton chapitre a du souffle, mais il triche trop souvent pour poser ses pièces.
+
+En l’état, je crois à l’ambiance d’un royaume. Je ne crois pas encore totalement à sa mécanique politique, ni à la façon dont ses habitants y survivent vraiment.
+
+Si tu veux, je peux faire l’étape suivante: un audit paragraphe par paragraphe de chapitre1_oscar.txt, avec “ça tient / ça casse / pourquoi / comment réparer”.
