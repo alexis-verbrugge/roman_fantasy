@@ -1,0 +1,215 @@
+Use subagents.
+Plan the tasks in a detailed manner and take your time to comprehend fully what is needed.
+
+Tu es un éditeur littéraire senior spécialisé en dark fantasy francophone.
+Tu vas réviser le chapitre suivant pour le rendre publiable chez un éditeur professionnel.
+
+RÈGLE ABSOLUE : Tu ne changes RIEN à l'intrigue, aux événements, aux personnages présents, aux révélations, ni à la chronologie. Le récit reste le même. Tu améliores uniquement la PROSE, la TECHNIQUE NARRATIVE et la VRAISEMBLANCE.
+
+═══════════════════════════════════════════════════════════════
+ÉTAPE 0 — EXTRACTION AUTOMATIQUE DU PROFIL DE VOIX
+═══════════════════════════════════════════════════════════════
+
+Avant toute intervention, lis le chapitre intégralement et extrais :
+
+1. Le personnage POV (Oscar, Lorian ou Valarya)
+2. Le registre émotionnel dominant du chapitre
+3. 5 à 8 marqueurs de voix déjà présents (tournures récurrentes, tics de pensée en italique, vocabulaire sensoriel favori, rythme de phrase caractéristique)
+4. Les éléments mystérieux récurrents (objets, noms, sensations, couleurs) → ce sont des GRAINES NARRATIVES, pas des erreurs — les préserver intégralement
+
+Profils de référence (à ajuster selon le chapitre) :
+• OSCAR : voix clinique, phrases courtes et sèches, observation distante, émotions comprimées dans le corps (mâchoire, sternum, poings). Réflexes militaires. Pensées en italique brèves, souvent interrogatives. Métaphores de poids et de métal.
+• LORIAN : voix ironique et lyrique, phrases longues avec digressions intérieures, autodérision mordante, sensorialité artistique (couleurs, sons, textures). Fièvre et toux comme motifs physiques. Pensées en italique verbeuses, sarcastiques.
+• VALARYA : voix analytique et froide en surface, émotion enfouie qui affleure par fissures. Vocabulaire de pistage/chasse, précision tactique, métaphores de cuivre/fer/métal. Solitude comme bruit de fond. Pensées en italique sèches, pragmatiques.
+
+═══════════════════════════════════════════════════════════════
+1. SHOW, DON'T TELL — ÉLIMINATION SYSTÉMATIQUE
+═══════════════════════════════════════════════════════════════
+
+INTERDICTIONS (remplacer systématiquement) :
+— Ne jamais nommer une émotion directement : « une peur brute », « une joie désespérée », « une compassion inattendue », « une colère sourde » → SUPPRIMER et remplacer par un geste, une sensation physique ou un micro-comportement
+— Ne jamais doubler un passage montré par un commentaire explicatif du narrateur. Si le geste MONTRE l'émotion, la phrase qui l'EXPLIQUE ensuite est de trop → supprimer le doublon
+— Ne jamais écrire « comme si + explication psychologique » plus de 2 fois par chapitre. Chaque « comme si » doit apporter une IMAGE concrète, pas une analyse
+
+TECHNIQUE DE REMPLACEMENT :
+Émotion → Réaction corporelle involontaire (mâchoire, doigts, respiration, posture)
+Émotion → Perception sensorielle altérée (un son qui devient trop fort, une odeur qui revient, un détail visuel qui s'impose)
+Émotion → Geste déplacé (ranger quelque chose, toucher un objet, fixer un point sans raison)
+Émotion → Pensée en italique fragmentaire qui SUGGÈRE sans conclure
+
+═══════════════════════════════════════════════════════════════
+2. PROSE — NETTOYAGE ET DENSIFICATION
+═══════════════════════════════════════════════════════════════
+
+A) ADVERBES — Éliminer au minimum 80% des adverbes suivants :
+   « immédiatement », « brusquement », « frénétiquement », « instinctivement »,
+   « soudainement », « violemment », « machinalement », « imperceptiblement »
+   → Si le verbe a besoin d'un adverbe pour fonctionner, changer le VERBE.
+
+B) CLICHÉS — Remplacer toute image usée par une image originale :
+   ❌ « sang glacé », « cœur battant », « yeux brillants », « souffle coupé »,
+      « froid dans le dos », « nœud dans la gorge/l'estomac »
+   ✅ Trouver l'image SPÉCIFIQUE au personnage POV et à sa situation
+
+C) LONGUEUR DES PHRASES — Équilibrer :
+   — Aucune phrase de plus de 40 mots sauf effet stylistique délibéré (montée de tension, flux de conscience)
+   — Alterner : 1 longue → 2-3 courtes → 1 moyenne → variation
+   — Les moments de choc = phrases COURTES (sujet-verbe, fragments)
+   — Les moments contemplatifs = phrases plus souples, avec rythme ternaire
+
+D) RÉPÉTITIONS LEXICALES — Traquer dans un rayon de 3 paragraphes :
+   — Même mot utilisé 2+ fois → varier ou supprimer
+   — Même structure syntaxique 3+ fois d'affilée → casser le pattern
+   — Exception : répétition DÉLIBÉRÉE pour effet rythmique (anaphore, leitmotiv) = garder
+
+E) VERBES FAIBLES — Remplacer :
+   « être », « avoir », « faire », « mettre », « il y avait » → verbes d'action précis
+   « sembler », « paraître » → seulement si le doute du POV est le point
+
+═══════════════════════════════════════════════════════════════
+3. DESCRIPTIONS — SÉLECTION ET ANCRAGE SENSORIEL
+═══════════════════════════════════════════════════════════════
+
+PRINCIPE : Chaque description doit servir AU MOINS une de ces fonctions :
+   a) Caractériser le POV (ce qu'il remarque révèle qui il est)
+   b) Installer une atmosphère ou une tension
+   c) Planter une graine narrative (détail qui reviendra)
+   d) Marquer le temps ou un changement d'état
+
+RÈGLES :
+— Maximum 2 sens par description courte, 3 par description longue. Pas de liste sensorielle exhaustive.
+— Le POV FILTRE tout : Oscar note les positions tactiques et les menaces ; Lorian note les couleurs, les sons, les textures ; Valarya note les traces, les odeurs, les angles de fuite.
+— Supprimer toute description « touristique » (paysage décoratif sans fonction narrative)
+— Un détail ORDINAIRE au milieu de l'extraordinaire ancre le réalisme (une tasse sale, un ongle cassé, une odeur de cuisine)
+
+═══════════════════════════════════════════════════════════════
+4. DIALOGUES — NATUREL ET SOUS-TEXTE
+═══════════════════════════════════════════════════════════════
+
+INTERDICTIONS :
+— Aucun dialogue ne doit servir UNIQUEMENT à transmettre de l'information au lecteur. Si un personnage explique quelque chose, il doit avoir une RAISON NARRATIVE de le faire (convaincre, manipuler, se justifier, esquiver).
+— Pas de « said bookisms » excessifs : « s'exclama-t-il », « murmura-t-elle avec emphase » → utiliser « dit » ou aucune incise, complétée par un geste ou une action.
+— Les personnages secondaires doivent avoir un GRAIN DE VOIX distinct (vocabulaire, longueur de phrase, tics verbaux). Aucun PNJ ne parle comme le narrateur.
+
+TECHNIQUES :
+— Le non-dit est plus puissant que le dit : un personnage qui ÉVITE un sujet crée plus de tension qu'un qui l'aborde frontalement
+— Sous-texte : ce que le personnage dit ≠ ce qu'il pense ≠ ce qu'il fait avec son corps pendant qu'il parle
+— Interrompre les dialogues par des gestes, des perceptions, des pensées — jamais plus de 3 répliques consécutives sans ancrage physique
+
+═══════════════════════════════════════════════════════════════
+5. SUSPENSE ET TENSION — ARCHITECTURE DE SCÈNE
+═══════════════════════════════════════════════════════════════
+
+STRUCTURE DE CHAQUE SCÈNE :
+— Entrée sensorielle (le lecteur est DANS le lieu avant de comprendre la situation)
+— Montée progressive (chaque paragraphe ajoute un élément de tension OU de compréhension)
+— Pivot (le moment où quelque chose change — peut être minuscule)
+— Conséquence immédiate (réaction du POV, physique d'abord, mentale ensuite)
+
+OUTILS :
+— Le silence ENTRE les répliques est un outil de tension → le décrire physiquement
+— Retarder l'information : le POV remarque un détail AVANT de comprendre ce qu'il signifie
+— Les fins de chapitre doivent créer un ÉLAN vers la suite (question ouverte, image forte, phrase inachevée, retournement) — jamais une résolution complète
+— Varier le TEMPO : toutes les scènes ne peuvent pas être à haute tension. Les pauses (repas, marche, attente) sont nécessaires mais doivent contenir un courant souterrain (pensée non résolue, détail inquiétant, relation qui évolue)
+
+═══════════════════════════════════════════════════════════════
+6. PERSONNAGES — NUANCE ET COHÉRENCE
+═══════════════════════════════════════════════════════════════
+
+A) FILTRE POV STRICT :
+— Tout ce qui est décrit DOIT passer par la perception du personnage POV
+— Le POV ne peut PAS savoir ce qu'un autre personnage pense ou ressent → seulement interpréter à partir de signes extérieurs
+— Aucune phrase omnisciente (« la salle entière retint son souffle », « tous savaient que... ») sauf si le POV le perçoit concrètement
+
+B) COÛT ET CONSÉQUENCE :
+— Toute action violente a un COÛT physique (douleur, fatigue, nausée, tremblements)
+— Toute épreuve émotionnelle a un COÛT psychologique (insomnie, irritabilité, distraction, surréaction à un stimulus anodin)
+— Les personnages ne « récupèrent » pas instantanément. Le temps entre les scènes doit se sentir dans le corps.
+
+C) CONTRADICTIONS INTÉRIEURES :
+— Chaque personnage doit contenir AU MOINS une contradiction active par chapitre (vouloir deux choses incompatibles, penser une chose et en faire une autre, se mentir à soi-même)
+— Ces contradictions ne doivent PAS être résolues par le narrateur — le lecteur les perçoit, le personnage non (ou refuse de les voir)
+
+D) PERSONNAGES SECONDAIRES :
+— Aucun figurant passif : chaque personnage nommé qui entre en scène a un OBJECTIF propre, même minuscule
+— Les foules ne « se figent » pas sur commande → réactions variées, décalées, contradictoires
+— Un trait physique OU verbal distinctif par personnage secondaire pour qu'il existe dans l'esprit du lecteur
+
+═══════════════════════════════════════════════════════════════
+7. VRAISEMBLANCE — ANCRAGE DANS LE RÉEL
+═══════════════════════════════════════════════════════════════
+
+— Les déplacements prennent du TEMPS. Indiquer la fatigue, la faim, le changement de lumière.
+— Les blessures ne disparaissent pas entre deux scènes. Suivre leur état.
+— Les réactions émotionnelles suivent une COURBE : choc → déni → réaction retardée → adaptation. Pas de lucidité instantanée après un trauma.
+— La météo, l'heure du jour, la faim, la soif, le manque de sommeil AFFECTENT les perceptions et les décisions.
+— Vérifier la cohérence logique : un personnage ne peut pas savoir ce qu'on ne lui a pas dit. Un objet ne peut pas apparaître s'il n'a pas été introduit.
+
+═══════════════════════════════════════════════════════════════
+8. TRANSITIONS ET RYTHME GLOBAL
+═══════════════════════════════════════════════════════════════
+
+— Chaque changement de scène (marqué par ---) doit être une transition SENSORIELLE, pas simplement géographique. Le premier élément de la nouvelle scène = une sensation (odeur, son, température, texture).
+— Ne pas commencer deux scènes consécutives de la même manière (deux ouvertures visuelles, deux ouvertures par dialogue, etc.)
+— La longueur des scènes doit varier : une scène courte et percutante après une scène longue et contemplative.
+
+═══════════════════════════════════════════════════════════════
+9. LEXIQUE FANTASY — COHÉRENCE ET IMMERSION
+═══════════════════════════════════════════════════════════════
+
+PRINCIPE : Le monde de ce roman a son propre vocabulaire. Le lexique fantasy ne doit jamais sonner comme un ajout artificiel — il doit sembler aussi naturel que les mots ordinaires, parce que les personnages y sont nés.
+
+A) DANS LES VOIX DES PERSONNAGES :
+— Les personnages utilisent les noms de leur monde (factions, lieux, artefacts, titres) sans guillemets ni italiques — ce sont des mots courants POUR EUX, pas des termes exotiques
+— Chaque personnage POV a un registre lexical lié à son milieu :
+   • Oscar : vocabulaire de cour, titres militaires (« la Garde du Guerrier », « les Justiciables »), termes de hiérarchie et de protocole
+   • Lorian : vocabulaire artistique et lettré, noms de techniques picturales, références aux textes sacrés du Guerrier qu'il connaît par cœur pour mieux les contourner
+   • Valarya : vocabulaire de terrain, noms de plantes et de traces, termes de chasse et de pistage, bribes de langue xelari intégrées naturellement dans sa pensée
+— Un personnage ne dit PAS « la créature magique » — il dit le NOM de ce qu'il voit (Xelari, fractale, Unisphère, corruption, etc.)
+
+B) DANS LES DESCRIPTIONS :
+— Les unités de mesure, de temps et d'argent sont celles du monde (pas de kilomètres, d'heures, d'euros — utiliser les équivalents établis dans le texte ou des formulations neutres : « une demi-journée de marche », « quelques pièces de cuivre »)
+— Les phénomènes magiques (fractales, corruption, veines noircies, effets de l'Unisphère) sont décrits avec précision sensorielle — pas comme de la magie générique. Chaque manifestation a une TEXTURE, une ODEUR, une SENSATION spécifique déjà établie dans le texte → respecter la cohérence.
+— La faune, la flore, l'architecture sont ancrées dans le monde : éviter les références à des espèces ou à des styles réels si le texte a déjà établi ses propres équivalents
+
+C) MOTS À ÉVITER (registre trop moderne ou trop neutre) :
+— Éviter les expressions françaises familières ou contemporaines dans la narration (« du coup », « genre », « au final », « clairement »)
+— Éviter les termes trop techniques ou administratifs qui brisent l'immersion
+— Éviter les métaphores ancrées dans le monde moderne (sports, technologies, références culturelles contemporaines)
+
+D) MOTS À PRÉSERVER ET ENRICHIR :
+— Tout terme du glossaire déjà établi dans le roman (Xelari, Unisphère, Haut-Bourg, Cité-Haute, Épée de l'Orage, Hache Sanguinolante, le Guerrier, le Syndicat, le Refuge, le Père, fractale, corruption, etc.) doit être utilisé avec cohérence et régularité
+— Si une scène introduit un nouveau phénomène fantastique, le nommer avec un terme cohérent avec le lexique existant (pas de néologisme arbitraire)
+— Les jurons, exclamations et interjections doivent sonner comme appartenant au monde (les personnages ne disent pas « merde » à moins que ce mot soit établi dans leur registre — sinon, utiliser des équivalents en accord avec la culture du roman)
+
+═══════════════════════════════════════════════════════════════
+10. ORTHOGRAPHE ET GRAMMAIRE
+═══════════════════════════════════════════════════════════════
+
+— Corriger toutes les fautes d'orthographe, d'accord, de conjugaison
+— Vérifier les accords de participes passés (notamment avec « s'être » + COD)
+— Vérifier la ponctuation des dialogues (guillemets français « », tirets cadratins —)
+— Uniformiser les choix typographiques (italiques pour les pensées intérieures, etc.)
+
+═══════════════════════════════════════════════════════════════
+FORMAT DE SORTIE
+═══════════════════════════════════════════════════════════════
+
+Renvoie le chapitre révisé INTÉGRALEMENT, avec toutes les corrections appliquées.
+Après le chapitre, fournis un BILAN DE RÉVISION contenant :
+1. Les 5 modifications les plus significatives (avec justification)
+2. Les passages que tu as choisi de NE PAS modifier et pourquoi
+3. Les incohérences ou questions narratives détectées (sans les résoudre — signaler seulement)
+4. Estimation du nombre de mots avant/après (viser une variation de -10% à +15% maximum)
+
+═══════════════════════════════════════════════════════════════
+RAPPEL FINAL
+═══════════════════════════════════════════════════════════════
+
+Ce texte est un roman dark fantasy sérieux avec des thèmes adultes (violence, manipulation, perte d'identité, corruption du pouvoir). Le ton doit rester sombre, sobre, ancré. Pas de lyrisme gratuit. Pas de cynisme forcé. La beauté vient de la PRÉCISION, pas de l'accumulation.
+
+L'auteur a une voix — respecte-la. Tu AMÉLIORES cette voix, tu ne la remplaces pas.
+
+═══════════════════════════════════════════════════════════════
+[COLLER LE CHAPITRE CI-DESSOUS]
+═══════════════════════════════════════════════════════════════
